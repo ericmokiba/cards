@@ -1,0 +1,38 @@
+
+h1{
+ font-size: 4rem;
+}
+.container{
+    width: 50%;
+    margin: 2rem auto;
+    background-color: rgba(78, 109, 64, 0.521);
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+}
+h2{
+    font-size: 4rem;
+}
+.unique{
+    margin: 1rem 0;
+    background-color: rgb(14, 14, 136);
+    color: white;
+}
+button{
+    width: 50%;
+    background-color: rgba(28, 102, 28, 0.842);
+    padding: 10px;
+    cursor: pointer;
+    border: 2px solid black;
+    font-size: 23px;
+    font-weight: bolder;
+}
+.other{
+    font-weight: bolder;
+    text-align: start;
+    font-size: 24px;
+}
+button:hover{
+    background-color: teal;
+}
+
